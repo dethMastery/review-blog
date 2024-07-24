@@ -41,7 +41,7 @@ date: 1721832906803
 ในส่วนของเพลงก็ `ครับ` สไตล์ Deadpool เลย เอาเพลงมีม เพลงเก่ามาเล่น แต่ภาคนี้กลับมีเพลงติดหูหนักๆ เลยสำหรับผมก็คือเพลงอย่าง `Bye Bye Bye ของ *NSYNC`
 
 <center>
-  <iframe width="600px" height="400px" src="https://www.youtube.com/embed/Eo-KmOd3i7s" title="*NSYNC - Bye Bye Bye (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="80%" height="400px" src="https://www.youtube.com/embed/Eo-KmOd3i7s" title="*NSYNC - Bye Bye Bye (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ซึ่งเรียกได้ว่าด้วยฉากต่างๆ และ เพลงที่ขึ้นมาด้วยกันทำมาได้ดีมากๆ เลย ( จริงๆ มันเรียกว่าดีในระดับที่ทำให้ผมจำหลายๆ Scene ได้เลย ) ซึ่ง ณ ส่วนนี้ก็ต้องขอชมในส่วนของ Sound Design จากใจจริงเลยครับ :D
@@ -59,7 +59,7 @@ date: 1721832906803
 สำหรับคะแนนของเรื่องนี้ ผมให้เลยครับ
 
 <center>
-  <img style="margin-bottom: .5rem" src="https://cdn.000189.xyz/file/b42b2353365b39e9e058b.jpg" width="600px">
+  <img style="margin-bottom: .5rem" src="https://cdn.000189.xyz/file/b42b2353365b39e9e058b.jpg" width="80%">
   <h3 style="margin-top: 0;">Mazda odyssey / 10</h3>
 </center>
 
