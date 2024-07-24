@@ -10,10 +10,11 @@ keywords:
 author: 'Suphakit P.'
 language: th
 timezone: 'Asia/Bangkok'
+khome: 'https://suphakit.net'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://review.suphakit.net
+url: https://review.suphakit.net
 permalink: :slug/
 permalink_defaults:
 pretty_urls:
