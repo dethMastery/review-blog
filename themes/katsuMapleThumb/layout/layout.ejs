@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="<%= config.language %>">
+
+  <head>
+    <%- partial('partials/head',{cache: true}) %>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@200;300;700&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+    <div id="app">
+      <%- partial('partials/header', null, {cache: true}) %> 
+      <main class="container">
+        <%- body %> 
+      </div>
+      <%- partial('partials/footer', null, {cache: true}) %> 
+    </div>
+    <%- partial('partials/after-footer') %> 
+  </body>
+</html>

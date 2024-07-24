@@ -1,0 +1,21 @@
+<div class="posts">
+  <% var last_year = ''; %>
+  <ul>
+    <% page.posts.each(function (post) { %>
+    <% var cur_year = post.date.year(); %>
+    <% if(last_year !== cur_year){ %>
+      <h2><%- cur_year %></h2>
+    <% last_year = cur_year; } %>
+    <li style="background: url(<%- post.thumbnail %>)">
+      <div class="post-container">
+        <a href="<%- url_for(post.path) %>" class="item">
+          <div class="title"><%= post.title %></div>
+        </a>
+        <div class="time"><%- post.description %></div>
+      </div>
+    </li>
+    <% }) %>
+  </ul>
+
+  <%- partial('partials/paginator') %>
+</div>

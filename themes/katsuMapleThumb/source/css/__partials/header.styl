@@ -1,0 +1,49 @@
+.header
+  z-index: 40
+  margin-bottom: 1rem
+  .logo
+    position: absolute
+    width: 2.5rem
+    height: 2.5rem
+    margin: 1rem
+    user-select: none
+    outline: 2px solid transparent
+    outline-offset: 2px
+    @media (min-width: 1024px)
+      position: fixed
+
+  img
+    width: 2.5rem
+    height: auto
+    isplay: block
+    vertical-align: middle
+
+  .nav
+    padding: 1.5rem
+    width: 100%
+    display: grid
+    grid-template-columns: auto max-content
+    box-sizing: border-box
+    font-family: font-family
+    .spacer
+      margin: auto
+    .right, .right>.menu, .links
+      display: grid
+      gap: 1.2rem
+      grid-auto-flow: column
+      .menu
+        @media screen and (max-width: 786px)
+          display: none
+    a
+      color: deep-text
+      cursor: pointer
+      text-decoration: none
+      transition: all .2s ease
+      outline: none
+      &:hover
+        color: hover-text
+        text-decoration-color: inherit
+    svg
+      width: 1.2rem
+      height: 1.2rem
+      vertical-align: text-bottom

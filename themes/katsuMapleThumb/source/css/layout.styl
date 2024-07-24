@@ -1,0 +1,29 @@
+body
+  background: bg
+  color: text
+  padding: 0
+  margin: 0
+
+a
+  color: text
+  transition: all .3s
+  &:hover
+    color: text-hover
+    text-decoration: none
+
+#app
+  display: flex
+  flex-direction: column
+  min-height: 100vh
+  width: 100%
+  .container
+    flex-grow: 1
+    flex-shrink: 0
+    flex-basis: auto
+    font-family: 'IBM Plex Sans Thai', sans-serif
+  .pagination
+    text-align: center
+    .page-number
+      padding: 0 1rem !important
+    .extend
+      padding: 0 1rem !important
